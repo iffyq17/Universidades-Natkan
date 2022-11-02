@@ -1,2 +1,2 @@
-# semestre-en-una-noche
+# semestre en una noche
 proyecto estudiantil 
