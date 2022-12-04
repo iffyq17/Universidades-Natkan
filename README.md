@@ -1,2 +1,0 @@
-# Universidades Natkan
-proyecto estudiantil 
